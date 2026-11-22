@@ -256,7 +256,7 @@ print(
 )
 ```
 6) Perform Aggregation and Grouping
-```
+```python
 # Number of Movies and TV Shows
 print(
     df.groupby('type')['title'].count()
