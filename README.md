@@ -17,6 +17,7 @@ To analyze Netflix dataset and compare movies vs TV shows, top producing countri
 **Program**
 1) Load and Explore the Dataset
 ```python
+import pandas as pd
 df = pd.read_csv(
     "https://raw.githubusercontent.com/allenkong221/netflix-titles-dataset/main/netflix_titles.csv"
 )
@@ -547,6 +548,33 @@ print(
 ```
 
 **Ouptut**
+1.Load and Explore the Dataset
+<img width="783" height="593" alt="image" src="https://github.com/user-attachments/assets/a5de45a2-16f7-4b7d-856d-b7cf68089cee" />
+<img width="452" height="302" alt="image" src="https://github.com/user-attachments/assets/95ec9011-19a5-4686-a8f9-5d1ef81fda29" />
+2. Analyze missing values
+<img width="1788" height="757" alt="image" src="https://github.com/user-attachments/assets/46b8154f-503e-4d8d-ad90-1f9299c6ca95" />
+3. Perform data indexing and selection
+<img width="486" height="586" alt="image" src="https://github.com/user-attachments/assets/39c51478-7454-4970-b943-d236456829e3" />
+<img width="577" height="667" alt="image" src="https://github.com/user-attachments/assets/7c0b7e94-f1a0-4560-bdc6-71ce4582eba0" />
+4. Create new columns
+<img width="935" height="766" alt="image" src="https://github.com/user-attachments/assets/8df45c9a-cffa-4ca8-b327-b414aa2225e0" />
+5. Perform vectorized string operations
+<img width="611" height="655" alt="image" src="https://github.com/user-attachments/assets/81183d13-1857-48f2-9f6f-f15befec4a84" />
+<img width="526" height="197" alt="image" src="https://github.com/user-attachments/assets/c0a72bca-5e16-49e8-9e27-23260c030a27" />
+6. Perform aggregation and grouping
+<img width="496" height="386" alt="image" src="https://github.com/user-attachments/assets/5241c7e9-e0c8-4e16-8a13-e1e27121703d" />
+7. Perform frequency analysis
+<img width="466" height="532" alt="image" src="https://github.com/user-attachments/assets/26c37d8b-6ecd-47d8-b3a9-6ce9ccbd0713" />
+8. Create pivot tables
+<img width="586" height="451" alt="image" src="https://github.com/user-attachments/assets/e85eced1-161f-4e41-b63f-3670aad2e4c1" />
+9. Perform hierarchical indexing (multiindex)
+<img width="833" height="637" alt="image" src="https://github.com/user-attachments/assets/5ba8d35e-7a9c-496e-9e26-150e175ac725" />
+10. Combine DataFrames
+<img width="778" height="763" alt="image" src="https://github.com/user-attachments/assets/a779d28d-8509-4907-a784-d6756bf1072b" />
+11. Analyze netflix additions over time
+<img width="650" height="522" alt="image" src="https://github.com/user-attachments/assets/aefee73a-ef83-45b0-91fb-52a36a412dab" />
+12. Generate a summary report
+<img width="487" height="496" alt="image" src="https://github.com/user-attachments/assets/a6d77474-6991-45d0-affe-ca123b5c5651" />
 
 **Result**
 Helps Netflix in content planning & investments.
