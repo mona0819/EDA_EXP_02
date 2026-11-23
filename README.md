@@ -1,7 +1,7 @@
 **Netflix Shows & Movies**
 ```
-#Name: Mohana Priya D
-#Reg No.: 212225230182
+Name: Mohana Priya D
+Reg No.: 212225230182
 ```
 **Aim**
 
@@ -548,7 +548,8 @@ print(
 )
 ```
 
-##Output
+**Output**
+
 1.Load and Explore the Dataset
 
 <img width="783" height="593" alt="image" src="https://github.com/user-attachments/assets/a5de45a2-16f7-4b7d-856d-b7cf68089cee" />
